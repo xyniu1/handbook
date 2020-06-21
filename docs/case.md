@@ -378,8 +378,8 @@ gap year：
 
 1. 学校+专业：中流985+制药工程
 2. 硕士学校+专业：苏黎世联邦理工学院 计算生物学与生物信息学
-3. 本科gpa+排名：3.9/4.0 （wes)
-4. 硕士学校+专业：3.7/4.0 (wes，申请瑞士的学校硕士成绩没有转换）
+3. 本科gpa+排名：3.9/4.0 (wes)
+4. 硕士学校+专业：3.7/4.0 (wes，只有申请瑞士的学校硕士成绩没有转换)
 
 ### 二、研究经历
 
@@ -402,12 +402,14 @@ gap year：
 ### 五、标化成绩
 
 *（我的简历上其实没有写标化成绩）*
+
 - TOEFL：107（R29 W28 L28 S22)
 - GRE：V161+Q170+W3.5
 
 ### 六、技能
 
 *（简历上我还写了key courses和代表性的machine learning大作业主题）*
+
 - Programming: MATLAB, Python, R, C++, HTML, SQL Server
 - Experiment: Behavioral experiments, skin conductance response, ECG, eye tracking
 - Toolbox: SPM, EEGLAB, HDDM, scikit-learn, Keras, TensorFlow
@@ -421,7 +423,7 @@ gap year：
 ||<font size =4 color=#f4f0b5>Rejection</font> <font size =4 color=#d1e5c8>Post-Interview Rejection</font> <font size =4 color=#64b2c7>Offer</font>|
 |:--:|:---:|
 |1<td bgcolor=#f4f0b5>**University College London** Mental Health</td>
-|2<td bgcolor=#f4f0b5>**Princeton** University Psychology</td>
+|2<td bgcolor=#f4f0b5>**Princeton University** Psychology</td>
 |3<td bgcolor=#d1e5c8>**Brown University** Cognitive science</td>
 |4<td bgcolor=#d1e5c8>**New York University** Psychology</td>
 |5<td bgcolor=#d1e5c8>**Caltech** Social and Decision Neuroscience</td>
@@ -442,7 +444,7 @@ Total: 8; Interview offer: 6; Offer: 2; Rejection: 6.
 其实整体上来看对于美国的申请硬伤是很大的，因为没有publication（两个美国学校的面试都问到我这个问题）。追根溯源在找实验室/advisor方面有一些建议：
 
 1. 不属于整个实验室的大方向且不是advisor主要领域且也不是advisor未来目标方向的项目要非常非常谨慎入手；
-2. 尽量找老师能亲自带的实验室，postdoc也是trainee这两者之间区别很大，非常有经验的postoc也可；
+2. 尽量找老师能亲自带的实验室，postdoc也是trainee, 和pi的区别很大；不过非常有经验的postoc也可考虑；
 3. 如果是做计算的方向，有solid计算背景的advisor非常非常重要；
 4. 建议一开始对于paper和自己在研究领域的期望就和导师谈清楚，否则可能会出现对方对你要求过低的情况；
 5. 向老师强烈表达自己想要publication/参加会议的想法；
