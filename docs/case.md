@@ -162,16 +162,15 @@ Total: 12; Interview offer: 2; Offer: 1; Rejection: 11.
 2. 本科 gpa:3.8/4.3
 
 ### 二、研究经历
-
-- Jul - Dec 2017, The University of Hong Kong, Theta power increase in the human visual cortex in response to novelty (human EEG)
-- Aug 2019 - Feb 2020, Carnegie Mellon University, Emergence of opposite neurons in a decentralized ring-rate model of multisensory integration
-- Aug 2019 - Feb 2020, Carnegie Mellon University, The emergence of local circuits in visual familiarity representation
-- +some unrelated math projects, The University of Hong Kong, Cornell University
-
+#### neuroscience:
+- Jul - Dec 2017，港大本校，human EEG，申请前两篇会议abstract;
+- Aug 2019 - Feb 2020，Carnegie Mellon University，两个有关neural circuit modeling的项目，未参与实验，申请前一篇论文在投
+#### math:
+- Jun 2018 - Jul 2018，Cornell University，数学项目和neuroscience无关，申请前一篇论文发表
 ### 三、标化成绩
 
-- TOEFL：110+
-- GRE：325+
+- TOEFL：112
+- GRE：158+170+4
 
 ### 四、技能
 
@@ -180,11 +179,11 @@ Total: 12; Interview offer: 2; Offer: 1; Rejection: 11.
 
 ### 五、推荐信组成
 
-- US暑研+本校兼职RA+US gap year RA（均为professor）
+- 三段研究经历中的导师
 
 ### 六、申请目标
 
-- 主申computational neuroscience，美国
+- 计算神经方向，美国
 
 ### 七、申请结果 
 
@@ -208,7 +207,9 @@ Total: 12; Interview offer: 2; Offer: 1; Rejection: 11.
 |16<td bgcolor=#64b2c7>**University of Chicago** PhD in Computational Neuroscience</td>
 |17<td bgcolor=#64b2c7>**New York University** PhD in Neural Science</td>
 
-Total: 17.
+### 八、经验谈
+1. 从申请结果和我面试的经历来看，数理专业申请这个方向的优势还是挺大的，前提是要找好侧重计算和理论的项目；
+2. 我申请的项目比较杂，回顾来看还是觉得neuroscience的项目最适合学习计算神经，课程贴合，可选择的老师、可交流的同学比较多。其他项目多多少少有点绕了远路的感觉，面试时有点难以融入。
 
 ## **个人申请案例分享-Gian**
 
