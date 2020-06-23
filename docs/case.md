@@ -162,16 +162,16 @@ Total: 12; Interview offer: 2; Offer: 1; Rejection: 11.
 2. 本科 gpa:3.8/4.3
 
 ### 二、研究经历
-
-- Jul - Dec 2017, The University of Hong Kong, Theta power increase in the human visual cortex in response to novelty (human EEG)
-- Aug 2019 - Feb 2020, Carnegie Mellon University, Emergence of opposite neurons in a decentralized ring-rate model of multisensory integration
-- Aug 2019 - Feb 2020, Carnegie Mellon University, The emergence of local circuits in visual familiarity representation
-- +some unrelated math projects, The University of Hong Kong, Cornell University
+#### neuroscience:
+- Jul - Dec 2017，港大本校，human EEG，申请前两篇会议abstract；
+- Aug 2019 - Feb 2020，Carnegie Mellon University，两个neural circuit modeling的projects，申请前一篇论文在投
+#### math:
+- Jun 2018 - Jul 2018，Cornell University，数学的project内容与neuroscience无关，申请前一篇论文发表
 
 ### 三、标化成绩
 
-- TOEFL：110+
-- GRE：325+
+- TOEFL：112
+- GRE：158+160+4
 
 ### 四、技能
 
@@ -180,35 +180,30 @@ Total: 12; Interview offer: 2; Offer: 1; Rejection: 11.
 
 ### 五、推荐信组成
 
-- US暑研+本校兼职RA+US gap year RA（均为professor）
+- 三段研究经历的导师
 
 ### 六、申请目标
 
-- 主申computational neuroscience，美国
+- 计算神经，美国
 
 ### 七、申请结果 
 
-||<font size =4 color=#f4f0b5>Rejection</font> <font size =4 color=#d1e5c8>Post-Interview Rejection</font> <font size =4 color=#b2d6ce>Declined Interview</font> <font size =4 color=#64b2c7>Offer</font>|
-|:--:|:---:|
-|1<td bgcolor=#f4f0b5>**Carnegie Mellon University** PhD in Computer Science </td>
-|2<td bgcolor=#f4f0b5>**Columbia University** PhD in Neurobiology and Behavior </td>
-|3<td bgcolor=#f4f0b5>**Princeton University** PhD in Neuroscience</td>
-|4<td bgcolor=#f4f0b5>**Johns Hopkins University** PhD in Cognitive Science</td>
-|5<td bgcolor=#f4f0b5>**University of Washington (Seattle)** PhD in Neuroscience</td>
-|6<td bgcolor=#f4f0b5>**Brown University** PhD in Neuroscience</td>
-|7<td bgcolor=#f4f0b5>**Georgia Institute of Technology** Joint Georgia Tech & Emory Univ. Biomedical Engineering Ph.D. Program</td>
-|8<td bgcolor=#d1e5c8>**MIT** Brain and Cognitive Sciences</td>
-|9<td bgcolor=#d1e5c8>**UCLA** Interdepartmental PhD Program for Neuroscience</td>
-|10<td bgcolor=#d1e5c8>**Harvard University** PhD in School of Engineering and Applied Sciences-Applied Math</td>
-|11<td bgcolor=#d1e5c8>**Stanford University** PhD in Psychology</td>
-|12<td bgcolor=#b2d6ce>**Rice University** PhD in Electrical and Computer Engineering</td>
-|13<td bgcolor=#b2d6ce>**University of Pennsylvania** PhD in Bioengineering</td>
-|14<td bgcolor=#64b2c7>**UCSD** PhD in Cognitive Science</td>
-|15<td bgcolor=#64b2c7>**Carnegie Mellon University** PhD in Neural Computation</td>
-|16<td bgcolor=#64b2c7>**University of Chicago** PhD in Computational Neuroscience</td>
-|17<td bgcolor=#64b2c7>**New York University** PhD in Neural Science</td>
+#### 收到的interview:
 
-Total: 17.
+- **New York University** PhD in Neural Science（最终去向）
+- **MIT** Brain and Cognitive Sciences
+- **UCLA** Interdepartmental PhD Program for Neuroscience
+- **Harvard University** PhD in School of Engineering and Applied Sciences-Applied Math
+- **Stanford University** PhD in Psychology
+- **UCSD** PhD in Cognitive Science
+- **Carnegie Mellon University** PhD in Neural Computation
+- **University of Chicago** PhD in Computational Neuroscience
+- **Rice University** PhD in Electrical and Computer Engineering（未参加）
+- **University of Pennsylvania** PhD in Bioengineering（未参加）
+
+### 八、经验谈
+1. 从我的经历来看，数理背景的同学申请计算神经的方向还是挺有优势的，不过这两年竞争力强的申请者也在不断增多；
+2. 我个人申请的项目比较杂，除了neuroscience，还有cognitive science、psychology、bioengineering等。现在回头来看，我认为还是neuroscience的项目最适合将来从事计算神经的研究，原因在于合适的课程设置、充足的导师选择，以及和项目中的其他同学更有共同语言（这一点在读phd的过程中可能比想象的更加重要）。
 
 ## **个人申请案例分享-Gian**
 
