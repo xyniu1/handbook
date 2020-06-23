@@ -322,25 +322,25 @@ gap year：
 7. 找海外实验室的经验
 我实际上不太会找做计算神经的big name，在的组人数都不超过10个，和导师交流比较多（这个也看每个老师）。
 
-## **个人申请案例分享-Sherry**
+## **个人申请案例分享**
 
 ### 一、教育情况
 
-1. 学校+专业：中流985+制药工程
-2. 硕士学校+专业：苏黎世联邦理工学院 计算生物学与生物信息学
+1. 学校+专业：中流985+天坑工程类专业
+2. 硕士学校+专业：欧洲理工院校 生物信息学
 3. 本科gpa+排名：3.9/4.0 (wes)
-4. 硕士学校+专业：3.7/4.0 (wes，只有申请瑞士的学校硕士成绩没有转换)
+4. 硕士gpa+排名：3.7/4.0 (wes，只有申请硕士本土的phd时成绩没有转换)
 
 ### 二、研究经历
 
-- 2019.9-present NYU Human planning in a game with large state space
-- 2019.2-2019.7 UCL Modeling attention development using active inference 
-- 2018.6-2018.12 UofZurich Master's thesis: cognitive-computational models of risk assessment under threat (grade:6/6)
-- 2017.11-2019.1 ETH Developing cardiac-field artifact correction methods for EEG data
+- 2019.9-present 美国 Human planning in a game with large state space
+- 2019.2-2019.7 英国 Modeling attention development using active inference 
+- 2018.6-2018.12 欧陆 cognitive-computational models of risk assessment under threat (grade:6/6)
+- 2017.11-2019.1 欧陆 Developing cardiac-field artifact correction methods for EEG data
 
 ### 三、课外活动
 
-- 2019.9-present NYU Lab management
+- 2019.9-present Lab management
 - 2018.3-2018.10 iGEM某队advisor
 - 2017.10-2017.11 iGEM Judge
 - 2014.11-2015.9 iGEM某队co-leader+co-founder,获奖若干
@@ -386,13 +386,13 @@ gap year：
 
 其实今年的申请难度是比较大的，因为我想申请的方向/老师有好几个学校只有一个实验室招一个人。但是，有几个学校本应联系更多的老师，却由于申请时间紧张再加上误以为联系教授不太重要，只联系了一个或者没有联系，这样导致最后只有一个老师给我面试，或者老师完全没有看到过我的申请材料。我觉得只要是申请材料里提到过的老师，不管是50%感兴趣还是100%感兴趣，都可以发邮件聊一下，可以拓宽视野，为正式面试预热，说不定也能成为重要的机会。
 
-面试上自己有些忽略的地方是big picture，不过这也不是一朝一夕练成的能力。再就是有的做过的项目自己感觉和申请的老师非常相关，但是在面试的时候老师问到的是非常不相关的项目，这种时候可能会表现有些准备不充分。再就是有的时候可能keep conversation flow这一点做的不太好。
+面试上自己有些忽略的地方是big picture，不过这也不是一朝一夕练成的能力。再就是有的做过的项目自己感觉和申请的老师非常相关，但是在面试的时候老师问到的是非常不相关的项目，这种时候可能会表现有些准备不充分。再就是有的时候可能主动找话题这一点做的不太好。
 
-其实整体上来看对于美国的申请硬伤是很大的，因为没有publication（两个美国学校的面试都问到我这个问题）。追根溯源在找实验室/advisor方面有一些建议：
+其实整体上来看对于美国的申请硬伤是很大的，因为没有文章（两个美国学校的面试都问到我这个问题）。追根溯源在找实验室/advisor方面有一些建议：
 
 1. 不属于整个实验室的大方向且不是advisor主要领域且也不是advisor未来目标方向的项目要非常非常谨慎入手；
 2. 尽量找老师能亲自带的实验室，postdoc也是trainee, 和pi的区别很大；不过非常有经验的postoc也可考虑；
-3. 如果是做计算的方向，有solid计算背景的advisor非常非常重要；
-4. 建议一开始对于paper和自己在研究领域的期望就和导师谈清楚，否则可能会出现对方对你要求过低的情况；
-5. 向老师强烈表达自己想要publication/参加会议的想法；
-6. 找实验室没必要局限于自己的学校和地区，如果实在本地找不到合适的老师一定要努力reach out。
+3. 如果是做计算的方向，有比较强计算背景的advisor非常非常重要；
+4. 建议一开始对于文章发表和自己在研究领域的期望就和导师谈清楚，否则可能会出现对方对你要求过低的情况；
+5. 向老师强烈表达自己想要文章/参加会议的想法；
+6. 找实验室没必要局限于自己的学校和地区，如果实在本地找不到合适的老师一定要努力去其他地区找找看。
