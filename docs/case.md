@@ -43,25 +43,26 @@
 
 ### 九、申请结果 
 
-||<font size =4 color=#f4f0b5>Rejection</font> <font size =4 color=#d1e5c8>Post-Interview Rejection</font> <font size =4 color=#64b2c7>Offer</font>|
-|:--:|:---:|
-|1<td bgcolor=#f4f0b5>**Brandies University** Neuroscience</td>
-|2<td bgcolor=#f4f0b5>**University of Chicago** Computational Neuroscience</td>
-|3<td bgcolor=#f4f0b5>**Boston University** Neuroscience</td>
-|4<td bgcolor=#f4f0b5>**University of California-San Diego** Neuroscience</td>
-|5<td bgcolor=#f4f0b5>**Princeton University** Physics</td>
-|6<td bgcolor=#f4f0b5>**University of Pennsylvania** Physics</td>
-|7<td bgcolor=#f4f0b5>**Cold Spring Harbor Laboratory** Watson School of Biology</td>
-|8<td bgcolor=#f4f0b5>**Pittsburgh University** Neuroscience</td>
-|9<td bgcolor=#d1e5c8>**Columbia University** Neurobiology and Behavior</td>
-|10<td bgcolor=#d1e5c8>**Carnegie Mellon University/Pittsburgh University** Program of Neural Computation</td>
-|11<td bgcolor=#d1e5c8>**New York University** Neural Science</td>
-|12<td bgcolor=#64b2c7>**University of California-San Diego** Physics</td>
-|13<td bgcolor=#64b2c7>**Duke University** Physics</td>
-|14<td bgcolor=#64b2c7>**Duke University** Neurobiology</td>
-|15<td bgcolor=#64b2c7>**University of Rochester** Brain and Cognitive Science</td>
+||**University**/Program|Result|
+|:--:|:--:|:--:|
+|1|**Brandies University** Neuroscience|Rejection|
+|2|**University of Chicago** Computational Neuroscienc|Rejection|
+|3|**Boston University** Neuroscience|Rejection|
+|4|**University of California-San Diego** Neuroscience|Rejection|
+|5|**Princeton University** Physics|Rejection|
+|6|**University of Pennsylvania** Physics|Rejection|
+|7|**Cold Spring Harbor Laboratory** Watson School of Biology|Rejection|
+|8|**Pittsburgh University** Neuroscience|Rejection|
+|9|**Columbia University** Neurobiology and Behavior|Post-Interview Rejection|
+|10|**Carnegie Mellon University/Pittsburgh University** Program of Neural Computation|Post-Interview Rejection|
+|11|**New York University** Neural Science|Post-Interview Rejection|
+|12|**University of California-San Diego** Physics|Offer|
+|13|**Duke University** Physics|Offer|
+|14|**Duke University** Neurobiology|Offer|
+|15|**University of Rochester** Brain and Cognitive Science|Offer|
 
 Total: 15; Interview offer: 6; Interview attended: 6; Offer: 4; Rejection: 11.
+
 
 ### 十、经验谈
 
@@ -120,20 +121,20 @@ Total: 15; Interview offer: 6; Interview attended: 6; Offer: 4; Rejection: 11.
 
 ### 九、申请结果 
 
-||<font size =4 color=#f4f0b5>Rejection</font> <font size =4 color=#d1e5c8>Post-Interview Rejection</font> <font size =4 color=#64b2c7>Offer</font>|
-|:--:|:---:|
-|1<td bgcolor=#f4f0b5>**Dartmouth College** Psychological and Brain Sciences</td>
-|2<td bgcolor=#f4f0b5>**Harvard University** Psychology</td>
-|3<td bgcolor=#f4f0b5>**MIT** Brain and Cognitive Sciences</td>
-|4<td bgcolor=#f4f0b5>**New York University** Psychology</td>
-|5<td bgcolor=#f4f0b5>**Princeton University** Psychology</td>
-|6<td bgcolor=#f4f0b5>**Stanford University** Psychology</td>
-|7<td bgcolor=#f4f0b5>**University of California, Berkeley** Neuroscience</td>
-|8<td bgcolor=#f4f0b5>**University of California, Los Angeles** Psychology</td>
-|9<td bgcolor=#f4f0b5>**University of Michigan, Ann Arbor** Psychology</td>
-|10<td bgcolor=#f4f0b5>**Yale University** Psychology</td>
-|11<td bgcolor=#d1e5c8>**University of Pennsyvania** Neuroscience</td>
-|12<td bgcolor=#64b2c7>**Caltech** Social and Decision Neuroscience</td>
+||**University**/Program|Result|
+|:--:|:--:|:--:|
+|1|**Dartmouth College** Psychological and Brain Sciences|Rejection|
+|2|**Harvard University** Psychology|Rejection|
+|3|**MIT** Brain and Cognitive Sciences|Rejection|
+|4|**New York University** Psychology|Rejection|
+|5|**Princeton University** Psychology|Rejection|
+|6|**Stanford University** Psychology|Rejection|
+|7|**University of California, Berkeley** Neuroscience|Rejection|
+|8|**University of California, Los Angeles** Psychology|Rejection|
+|9|**University of Michigan, Ann Arbor** Psychology|Rejection|
+|10|**Yale University** Psychology|Rejection|
+|11|**University of Pennsyvania** Neuroscience|Post-Interview Rejection|
+|12|**Caltech** Social and Decision Neuroscience|Offer|
 
 Total: 12; Interview offer: 2; Offer: 1; Rejection: 11.
 
@@ -188,25 +189,25 @@ Total: 12; Interview offer: 2; Offer: 1; Rejection: 11.
 
 ### 七、申请结果 
 
-||<font size =4 color=#f4f0b5>Rejection</font> <font size =4 color=#d1e5c8>Post-Interview Rejection</font> <font size =4 color=#b2d6ce>Declined Interview</font> <font size =4 color=#64b2c7>Offer</font>|
-|:--:|:---:|
-|1<td bgcolor=#f4f0b5>**Carnegie Mellon University** PhD in Computer Science </td>
-|2<td bgcolor=#f4f0b5>**Columbia University** PhD in Neurobiology and Behavior </td>
-|3<td bgcolor=#f4f0b5>**Princeton University** PhD in Neuroscience</td>
-|4<td bgcolor=#f4f0b5>**Johns Hopkins University** PhD in Cognitive Science</td>
-|5<td bgcolor=#f4f0b5>**University of Washington (Seattle)** PhD in Neuroscience</td>
-|6<td bgcolor=#f4f0b5>**Brown University** PhD in Neuroscience</td>
-|7<td bgcolor=#f4f0b5>**Georgia Institute of Technology** Joint Georgia Tech & Emory Univ. Biomedical Engineering Ph.D. Program</td>
-|8<td bgcolor=#d1e5c8>**MIT** Brain and Cognitive Sciences</td>
-|9<td bgcolor=#d1e5c8>**UCLA** Interdepartmental PhD Program for Neuroscience</td>
-|10<td bgcolor=#d1e5c8>**Harvard University** PhD in School of Engineering and Applied Sciences-Applied Math</td>
-|11<td bgcolor=#d1e5c8>**Stanford University** PhD in Psychology</td>
-|12<td bgcolor=#b2d6ce>**Rice University** PhD in Electrical and Computer Engineering</td>
-|13<td bgcolor=#b2d6ce>**University of Pennsylvania** PhD in Bioengineering</td>
-|14<td bgcolor=#64b2c7>**UCSD** PhD in Cognitive Science</td>
-|15<td bgcolor=#64b2c7>**Carnegie Mellon University** PhD in Neural Computation</td>
-|16<td bgcolor=#64b2c7>**University of Chicago** PhD in Computational Neuroscience</td>
-|17<td bgcolor=#64b2c7>**New York University** PhD in Neural Science</td>
+||**University**/Program|Result|
+|:--:|:--:|:--:|
+|1|**Carnegie Mellon University** PhD in Computer Science|Rejection|
+|2|**Columbia University** PhD in Neurobiology and Behavior|Rejection|
+|3|**Princeton University** PhD in Neuroscience|Rejection|
+|4|**Johns Hopkins University** PhD in Cognitive Science|Rejection|
+|5|**University of Washington (Seattle)** PhD in Neuroscience|Rejection|
+|6|**Brown University** PhD in Neuroscience|Rejection|
+|7|**Georgia Institute of Technology** Joint Georgia Tech & Emory Univ. Biomedical Engineering Ph.D. Program|Rejection|
+|8|**MIT** Brain and Cognitive Sciences|Post-Interview Rejection|
+|9|**UCLA** Interdepartmental PhD Program for Neuroscience|Post-Interview Rejection|
+|10|**Harvard University** PhD in School of Engineering and Applied Sciences-Applied Math|Post-Interview Rejection|
+|11|**Stanford University** PhD in Psychology|Post-Interview Rejection|
+|12|**Rice University** PhD in Electrical and Computer Engineering|Declined Interview|
+|13|**University of Pennsylvania** PhD in Bioengineering|Declined Interview|
+|14|**UCSD** PhD in Cognitive Science|Offer|
+|15|**Carnegie Mellon University** PhD in Neural Computation|Offer|
+|16|**University of Chicago** PhD in Computational Neuroscience|Offer|
+|17|**New York University** PhD in Neural Science|Offer|
 
 Total: 17.
 
@@ -255,26 +256,26 @@ Total: 17.
 
 ### 九、申请结果 
 
- ||<font size =4 color=#f4f0b5>Rejection</font> <font size =4 color=#d1e5c8>Post-Interview Rejection</font> <font size =4 color=#64b2c7>Offer</font>|
-|:--:|:---:|
-|1<td bgcolor=#f4f0b5>**Massachusetts Institute of Technology** Brain and Cognitive Sciences</td>
-|2<td bgcolor=#f4f0b5>**Stanford** Neurosciences Interdepartmental Program</td>
-|3<td bgcolor=#f4f0b5>**Princeton** Neuroscience Institute</td>
-|4<td bgcolor=#f4f0b5>**Columbia University** Doctoral Program in Neurobiology and Behavior</td>
-|5<td bgcolor=#f4f0b5>**UC Berkeley** Psychology</td>
-|6<td bgcolor=#f4f0b5>**Harvard** PhD Program in Neuroscience</td>
-|7<td bgcolor=#f4f0b5>**University of Pennsylvania** Neuroscience Graduate Group</td>
-|8<td bgcolor=#f4f0b5>**University of Pennsylvania** Graduate Group in Psychology</td>
-|9<td bgcolor=#f4f0b5>**University of California San Diego** Experimental Psychology</td>
-|10<td bgcolor=#f4f0b5>**CalTech** Computation and Neural Systems </td>
-|11<td bgcolor=#f4f0b5>**Uchicago** PhD Program in Computational Neuroscience</td>
-|12<td bgcolor=#f4f0b5>**University of Washington** Graduate Program in Neuroscience</td>
-|13<td bgcolor=#d1e5c8>**University of Oxford** DPhil in Neuroscience (1+3)</td>
-|14<td bgcolor=#d1e5c8>**New York University** Doctoral Program in Neural Science</td>
-|15<td bgcolor=#64b2c7>**University of Texas at Austin** Neuroscience Graduate Program</td>
-|16<td bgcolor=#64b2c7>**Carnegie Mellon University** Program in Neural Computation (PNC)</td>
-|17<td bgcolor=#64b2c7>**University of California San Diego** Biological Sciences</td>
-|18<td bgcolor=#64b2c7>**University of California San Diego** Neurosciences</td>
+||**University**/Program|Result|
+|:--:|:--:|:--:|
+|1|**Massachusetts Institute of Technology** Brain and Cognitive Sciences|Rejection|
+|2|**Stanford** Neurosciences Interdepartmental Program|Rejection|
+|3|**Princeton** Neuroscience Institute|Rejection|
+|4|**Columbia University** Doctoral Program in Neurobiology and Behavior|Rejection|
+|5|**UC Berkeley** Psychology|Rejection|
+|6|**Harvard** PhD Program in Neuroscience|Rejection|
+|7|**University of Pennsylvania** Neuroscience Graduate Group|Rejection|
+|8|**University of Pennsylvania** Graduate Group in Psychology|Rejection|
+|9|**University of California San Diego** Experimental Psychology|Rejection|
+|10|**CalTech** Computation and Neural Systems |Rejection|
+|11|**Uchicago** PhD Program in Computational Neuroscience|Rejection|
+|12|**University of Washington** Graduate Program in Neuroscience|Rejection|
+|13|**University of Oxford** DPhil in Neuroscience (1+3)|Post-Interview Rejection|
+|14|**New York University** Doctoral Program in Neural Science|Post-Interview Rejection|
+|15|**University of Texas at Austin** Neuroscience Graduate Program|Offer|
+|16|**Carnegie Mellon University** Program in Neural Computation (PNC)|Offer|
+|17|**University of California San Diego** Biological Sciences|Offer|
+|18|**University of California San Diego** Neurosciences|Offer|
 
 ### 十、经验谈
 
@@ -316,27 +317,27 @@ Total: 17.
 
 ### 六、申请结果 
 
-||<font size =4 color=#f4f0b5>Rejection</font> <font size =4 color=#d1e5c8>Post-Interview Rejection</font> <font size =4 color=#b2d6ce>Declined Interview</font> <font size =4 color=#64b2c7>Offer</font>|
-|:--:|:---:|
-|1<td bgcolor=#f4f0b5>**Cold Spring Harbor Laboratory** Watson School of Biology</td>
-|2<td bgcolor=#f4f0b5>**Columbia University** Neurobiology</td>
-|3<td bgcolor=#f4f0b5>**Harvard** Neuroscience</td>
-|4<td bgcolor=#f4f0b5>**MIT** Brain and Cognitive Sciences</td>
-|5<td bgcolor=#f4f0b5>**New York University** Center for Neural Sciences</td>
-|6<td bgcolor=#f4f0b5>**University of California San Diego** Biology</td>
-|7<td bgcolor=#f4f0b5>**University of College London** Gatsby Computational Neuroscience</td>
-|8<td bgcolor=#f4f0b5>**University of Washington** Neuroscience</td>
-|9<td bgcolor=#f4f0b5>**Yale University** Neuroscience</td>
-|10<td bgcolor=#d1e5c8>**Caltech** Computation Neural Systems</td>
-|11<td bgcolor=#d1e5c8>**Princeton University** Neuroscience</td>
-|12<td bgcolor=#d1e5c8>**Washington University St. Louis** Neuroscience</td>
-|13<td bgcolor=#b2d6ce>**Brandeis University** Neuroscience</td>
-|14<td bgcolor=#b2d6ce>**John Hopkins University** Psychological and Brain Sciences</td>
-|15<td bgcolor=#b2d6ce>**Max Planck BioCybernetics**</td>
-|16<td bgcolor=#b2d6ce>**University of College London** Optical Biology</td>
-|17<td bgcolor=#64b2c7>**Duke University** Neurobiology</td>
-|18<td bgcolor=#64b2c7>**Pittsburgh University** Neuroscience</td>
-|19<td bgcolor=#64b2c7>**University of California San Diego** Neuroscience</td>
+||**University**/Program|Result|
+|:--:|:--:|:--:|
+|1|**Cold Spring Harbor Laboratory** Watson School of Biology|Rejection|
+|2|**Columbia University** Neurobiology|Rejection|
+|3|**Harvard** Neuroscience|Rejection|
+|4|**MIT** Brain and Cognitive Sciences|Rejection|
+|5|**New York University** Center for Neural Sciences|Rejection|
+|6|**University of California San Diego** Biology|Rejection|
+|7|**University of College London** Gatsby Computational Neuroscience|Rejection|
+|8|**University of Washington** Neuroscience|Rejection|
+|9|**Yale University** Neuroscience|Rejection|
+|10|**Caltech** Computation Neural Systems|Post-Interview Rejection|
+|11|**Princeton University** Neuroscience|Post-Interview Rejection|
+|12|**Washington University St. Louis** Neuroscience|Post-Interview Rejection|
+|13|**Brandeis University** Neuroscience|Declined Interview|
+|14|**John Hopkins University** Psychological and Brain Sciences|Declined Interview|
+|15|**Max Planck BioCybernetics**|Declined Interview|
+|16|**University of College London** Optical Biology|Declined Interview|
+|17|**Duke University** Neurobiology|Offer|
+|18|**Pittsburgh University** Neuroscience|Offer|
+|19|**University of California San Diego** Neuroscience|Offer|
 
 Total: 19; Interview offer: 10; Interview attended: 6; Offer: 3; Rejection: 16.
 
@@ -420,16 +421,16 @@ gap year：
 
 ### 八、申请结果 
 
-||<font size =4 color=#f4f0b5>Rejection</font> <font size =4 color=#d1e5c8>Post-Interview Rejection</font> <font size =4 color=#64b2c7>Offer</font>|
-|:--:|:---:|
-|1<td bgcolor=#f4f0b5>**University College London** Mental Health</td>
-|2<td bgcolor=#f4f0b5>**Princeton University** Psychology</td>
-|3<td bgcolor=#d1e5c8>**Brown University** Cognitive science</td>
-|4<td bgcolor=#d1e5c8>**New York University** Psychology</td>
-|5<td bgcolor=#d1e5c8>**Caltech** Social and Decision Neuroscience</td>
-|6<td bgcolor=#d1e5c8>**Yale University** Psychology</td>
-|7<td bgcolor=#64b2c7>**École normale supérieure (Paris)** Cognitive Science</td>
-|8<td bgcolor=#64b2c7>**University of Zurich** Neuroeconomics</td>
+||**University**/Program|Result|
+|:--:|:--:|:--:|
+|1|**University College London** Mental Health|Rejection|
+|2|**Princeton** University Psychology|Rejection|
+|3|**Brown University** Cognitive science|Post-Interview Rejection|
+|4|**New York University** Psychology|Post-Interview Rejection|
+|5|**Caltech** Social and Decision Neuroscience|Post-Interview Rejection|
+|6|**Yale University** Psychology|Post-Interview Rejection|
+|7|**École normale supérieure (Paris)** Cognitive Science|Offer|
+|8|**University of Zurich** Neuroeconomics|Offer|
 
 Total: 8; Interview offer: 6; Offer: 2; Rejection: 6.
 

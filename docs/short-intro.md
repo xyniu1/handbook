@@ -140,7 +140,7 @@ mountain sort (https://mountainsort.readthedocs.io/en/latest/)
 
 偏认知神经科学的工具，可以提前在coursera上fMRI的网课学习一些基本概念，读Handbook of Functional MRI Data Analysis (by Russell A. Poldrack)，包括了数据预处理、各种统计模型和可视化的基本介绍与规范。熟悉一些fMRI数据处理的基本流程，用工具实操下(free surfer, SPM)。然后再找一些数据做MVPA，decoding这样的操作来学习。还可以做fMRI network的分析，这也可以找到一些网上公开的数据来学习。做fMRI主要需要学习的知识是物理类的（数据采集）信号处理类（预处理）和统计类。
 
-![img](https://qqadapt.qpic.cn/txdocpic/0/405b39e831c9fcb55e8eb4005748dbc9/0?w=808&h=581)            
+![](img/imaging.jpg)            
 
 上面的图说明不同成像方法的差异。
 
@@ -235,7 +235,7 @@ Van Dokkum, L. E. H., Ward, T., & Laffont, I. (2015). Brain computer interfaces 
 
 几种主要的非侵入性脑刺激在时间、空间上的作用尺度对比如下图。总的来说，几种方法在时间尺度上有较大差异，但空间尺度上均算是中等尺度，即多数时候用于调节皮层表面的局部脑活动（但也有研究表明可以影响到脑网络的活动）。接下来简要介绍其中3种方法。
 
-![img](https://qqadapt.qpic.cn/txdocpic/0/d8f251809a3b96c60b911d9299173835/0?w=685&h=453)            
+![](img/brain-stimulation.jpg)            
 
 (图片来源Polanía, R., Nitsche, M.A. & Ruff, C.C. Studying and modifying brain function with non-invasive brain stimulation. Nat Neurosci 21, 174–187 (2018). https://doi.org/10.1038/s41593-017-0054-4)
 
