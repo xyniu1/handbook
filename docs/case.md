@@ -45,13 +45,13 @@
 
 ||**University**/Program|
 |:--:|:--:|
-|9|**Columbia University** Neurobiology and Behavior|
-|10|**Carnegie Mellon University/Pittsburgh University** Program of Neural Computation|
-|11|**New York University** Neural Science|
-|12|**University of California-San Diego** Physics|
-|13|**Duke University** Physics|
-|14|**Duke University** Neurobiology|
-|15|**University of Rochester** Brain and Cognitive Science|
+|1|**Columbia University** Neurobiology and Behavior|
+|2|**Carnegie Mellon University/Pittsburgh University** Program of Neural Computation|
+|3|**New York University** Neural Science|
+|4|**University of California-San Diego** Physics|
+|5|**Duke University** Physics|
+|6|**Duke University** Neurobiology|
+|7|**University of Rochester** Brain and Cognitive Science|
 
 
 ### 十、经验谈
@@ -113,8 +113,8 @@
 
 ||**University**/Program|
 |:--:|:--:|
-|11|**University of Pennsyvania** Neuroscience|
-|12|**Caltech** Social and Decision Neuroscience|
+|1|**University of Pennsyvania** Neuroscience|
+|2|**Caltech** Social and Decision Neuroscience|
 
 
 ### 十、经验谈
@@ -170,18 +170,17 @@
 
 ||**University**/Program|
 |:--:|:--:|
-|8|**MIT** Brain and Cognitive Sciences|
-|9|**UCLA** Interdepartmental PhD Program for Neuroscience|
-|10|**Harvard University** PhD in School of Engineering and Applied Sciences-Applied Math|
-|11|**Stanford University** PhD in Psychology|
-|12|**Rice University** PhD in Electrical and Computer Engineering|
-|13|**University of Pennsylvania** PhD in Bioengineering|
-|14|**UCSD** PhD in Cognitive Science|
-|15|**Carnegie Mellon University** PhD in Neural Computation|
-|16|**University of Chicago** PhD in Computational Neuroscience|
-|17|**New York University** PhD in Neural Science|
+|1|**MIT** Brain and Cognitive Sciences|
+|2|**UCLA** Interdepartmental PhD Program for Neuroscience|
+|3|**Harvard University** PhD in School of Engineering and Applied Sciences-Applied Math|
+|4|**Stanford University** PhD in Psychology|
+|5|**Rice University** PhD in Electrical and Computer Engineering|
+|6|**University of Pennsylvania** PhD in Bioengineering|
+|7|**UCSD** PhD in Cognitive Science|
+|8|**Carnegie Mellon University** PhD in Neural Computation|
+|9|**University of Chicago** PhD in Computational Neuroscience|
+|10|**New York University** PhD in Neural Science|
 
-Total: 17.
 
 ## **个人申请案例分享-Gian**
 
@@ -230,12 +229,12 @@ Total: 17.
 
 ||**University**/Program|
 |:--:|:--:|
-|13|**University of Oxford** DPhil in Neuroscience (1+3)|
-|14|**New York University** Doctoral Program in Neural Science|
-|15|**University of Texas at Austin** Neuroscience Graduate Program|
-|16|**Carnegie Mellon University** Program in Neural Computation (PNC)|
-|17|**University of California San Diego** Biological Sciences|
-|18|**University of California San Diego** Neurosciences|
+|1|**University of Oxford** DPhil in Neuroscience (1+3)|
+|2|**New York University** Doctoral Program in Neural Science|
+|3|**University of Texas at Austin** Neuroscience Graduate Program|
+|4|**Carnegie Mellon University** Program in Neural Computation (PNC)|
+|5|**University of California San Diego** Biological Sciences|
+|6|**University of California San Diego** Neurosciences|
 
 ### 十、经验谈
 
@@ -264,8 +263,8 @@ Total: 17.
 
 ### 三、标化成绩
 
-- GRE General Verbal 160 (86%), Quant 170 (97%), Writi􏰀ng 3.5 (41%) 
-- TOEFL iBT Reading 29, Listening 30, Speaking 22, Writi􏰀ng 21, Total 102
+- GRE General Verbal 160 (86%), Quant 170 (97%), Writing 3.5 (41%) 
+- TOEFL iBT Reading 29, Listening 30, Speaking 22, Writing 21, Total 102
 
 ### 四、推荐信组成
 
@@ -279,16 +278,16 @@ Total: 17.
 
 ||**University**/Program|
 |:--:|:--:|
-|10|**Caltech** Computation Neural Systems|
-|11|**Princeton University** Neuroscience|
-|12|**Washington University St. Louis** Neuroscience|
-|13|**Brandeis University** Neuroscience|
-|14|**John Hopkins University** Psychological and Brain Sciences|
-|15|**Max Planck BioCybernetics**|
-|16|**University of College London** Optical Biology|
-|17|**Duke University** Neurobiology|
-|18|**Pittsburgh University** Neuroscience|
-|19|**University of California San Diego** Neuroscience|
+|1|**Caltech** Computation Neural Systems|
+|2|**Princeton University** Neuroscience|
+|3|**Washington University St. Louis** Neuroscience|
+|4|**Brandeis University** Neuroscience|
+|5|**John Hopkins University** Psychological and Brain Sciences|
+|6|**Max Planck BioCybernetics**|
+|7|**University of College London** Optical Biology|
+|8|**Duke University** Neurobiology|
+|9|**Pittsburgh University** Neuroscience|
+|10|**University of California San Diego** Neuroscience|
 
 
 ### 七、经验谈
@@ -369,20 +368,17 @@ gap year：
 
 - 主要申请psy/cog，没有psy项目的学校会考虑方向比较相关的neuro小方向。主要以感兴趣的导师/小的研究领域（decision-making，social）为导向，其次考虑城市（在大城市/靠近大城市，危险地区不考虑，偏向欧洲）。
 
-### 八、申请结果 
+### 八、拿到的Interview 
 
-||**University**/Program|Result|
-|:--:|:--:|:--:|
-|1|**University College London** Mental Health|Rejection|
-|2|**Princeton** University Psychology|Rejection|
-|3|**Brown University** Cognitive science|Post-Interview Rejection|
-|4|**New York University** Psychology|Post-Interview Rejection|
-|5|**Caltech** Social and Decision Neuroscience|Post-Interview Rejection|
-|6|**Yale University** Psychology|Post-Interview Rejection|
-|7|**École normale supérieure (Paris)** Cognitive Science|Offer|
-|8|**University of Zurich** Neuroeconomics|Offer|
+||**University**/Program|
+|:--:|:--:|
+|1|**Brown University** Cognitive science|Post-Interview Rejection|
+|2|**New York University** Psychology|Post-Interview Rejection|
+|3|**Caltech** Social and Decision Neuroscience|Post-Interview Rejection|
+|4|**Yale University** Psychology|Post-Interview Rejection|
+|5|**École normale supérieure (Paris)** Cognitive Science|Offer|
+|6|**University of Zurich** Neuroeconomics|Offer|
 
-Total: 8; Interview offer: 6; Offer: 2; Rejection: 6.
 
 ### 九、经验谈
 
