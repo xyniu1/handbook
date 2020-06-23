@@ -34,7 +34,7 @@
 
 脑科学主要还是一门实验学科，因此如果真正对脑科学实验方面感兴趣的同学，会有一些技能树需要点一下，在拥有这些技能树以后，你就会理解脑科学绝大部分研究到底是怎么一回事，然后告诉教授你会做这个这个，也会帮助你更快的上手科ban研zhuan。
 
-因为这不是一本脑科学的教材，在这里笔者主要简单介绍这个方法是做什么的，然后给一些review和paper（提供example）网站之类的方便大家了解，在可以自己练习的技能上，笔者会提供一些链接和材料。囿于笔者研究方向所限，这里缺少关于分子、细胞水平的实验介绍，欢迎了解的读者投稿补充。
+因为这不是一本脑科学的教材，在这里笔者主要简单介绍这个方法是做什么的，然后给一些综述（review）和paper（提供例子）网站之类的方便大家了解，在可以自己练习的技能上，笔者会提供一些链接和材料。囿于笔者研究方向所限，这里缺少关于分子、细胞水平的实验介绍，欢迎了解的读者投稿补充。
 
 ### **行为学**
 
@@ -56,7 +56,7 @@
 
 #### **行为-视频数据分析**
 
-结合deep learning，对动物行为的视频做分析，这也是目前很多实验室都在做的技术。通过一些开源工具比如
+结合深度学习的计算机视觉，对动物行为的视频做分析，这也是目前很多实验室都在做的技术。通过一些开源工具比如
 
 deep lab cut (https://github.com/AlexEMG/DeepLabCut)、JAABA (https://www.janelia.org/open-science/jaaba®)。
 
@@ -68,7 +68,7 @@ deep lab cut (https://github.com/AlexEMG/DeepLabCut)、JAABA (https://www.janeli
 
 #### **手术**
 
-手术是做experimental核心技能。所有的老鼠的操作，落地都依赖于对老鼠手术的技能。如果手术做不准确，脑区没有打准，实验上会出现很大的偏差。所以如果做神经科学，本科／硕士就有很好的手术技能，对申请一定是个加分点。这里主要是需要会脑区定位的技能和经验。手术主要是打dye，打病毒，埋光纤，埋电极，开颅窗等。
+手术是做实验研究核心技能。所有的老鼠的操作，落地都依赖于对老鼠手术的技能。如果手术做不准确，脑区没有打准，实验上会出现很大的偏差。所以如果做神经科学，本科／硕士就有很好的手术技能，对申请一定是个加分点。这里主要是需要会脑区定位的技能和经验。手术主要是打染料（dye），打病毒，埋光纤，埋电极，开颅窗等。
 
 神经活动信号记录有神经科学公开的数据网站https://openneuro.org/，可以找数据自己练，还有其他网站，很多论文后面也会附数据。
 
@@ -100,7 +100,7 @@ mountain sort (https://mountainsort.readthedocs.io/en/latest/)
 
 #### **光遗传**
 
-这个各种介绍的非常多，要熟悉一些mouse line（Cre Transgenic Mouse Lines），可以用的载体，病毒，很多文章都有非常详细的介绍。
+这个各种介绍的非常多，要熟悉一些老鼠系（Cre Transgenic Mouse Lines），可以用的载体，病毒，很多文章都有非常详细的介绍。
 
 (https://doi.org/10.1016/j.neuron.2011.06.004)
 
@@ -172,13 +172,13 @@ P300来源于顶头皮记录到的300ms正向成分，一般在oddball范式中�
 
 参考：Fazel-Rezai, R., Allison, B. Z., Guger, C., Sellers, E. W., Kleih, S. C., & Kübler, A. (2012). P300 brain computer interface: current challenges and emerging trends. Frontiers in neuroengineering, 5, 14.
 
-SSVEP对应的是屏幕上呈现不同频率的刺激，被试通过注视来选择。然后可以在视觉皮层来源的EEG信号内记录到对应频率的谐波，通过实时提取这个频域的特征来decode被试的选择。
+SSVEP对应的是屏幕上呈现不同频率的刺激，被试通过注视来选择。然后可以在视觉皮层来源的EEG信号内记录到对应频率的谐波，通过实时提取这个频域的特征来解码（decoding）被试的选择。
 
 参考： Allison, B., Luth, T., Valbuena, D., Teymourian, A., Volosyak, I., & Graser, A. (2010). BCI demographics: How many (and what kinds of) people can use an SSVEP BCI?. IEEE transactions on neural systems and rehabilitation engineering, 18(2), 107-116.
 
 Beverina, F., Palmas, G., Silvoni, S., Piccione, F., & Giove, S. (2003). User adaptive BCIs: SSVEP and P300 based interfaces. PsychNology Journal, 1(4), 331-354.
 
-第三种是运动想象。主要利用被试想象不同运动（比如左/右手的运动）时时域pattern不一样来decode被试的选择，这个不需要特定刺激的呈现。但是需要实时decoding的算法，可以输出的目标数不如前两种多，而且准确率不那么高，算法有很大优化的空间。
+第三种是运动想象。主要利用被试想象不同运动（比如左/右手的运动）时时域pattern不一样来解码被试的选择，这个不需要特定刺激的呈现。但是需要实时的算法，可以输出的目标数不如前两种多，而且准确率不那么高，算法有很大优化的空间。
 
 Ramoser, H., Muller-Gerking, J., & Pfurtscheller, G. (2000). Optimal spatial filtering of single trial EEG during imagined hand movement. IEEE transactions on rehabilitation engineering, 8(4), 441-446.
 
@@ -188,7 +188,7 @@ Meng, J., Zhang, S., Bekyo, A., Olsoe, J., Baxter, B., & He, B. (2016). Noninvas
 
 fMRI Real-time decoding
 
-还有一种非主流的就是通过fmri实现的脑机接口，主要是实时的decoding运算来实现，比较经典的比如这个文章：
+还有一种非主流的就是通过fmri实现的脑机接口，主要是实时的解码运算来实现，比较经典的比如这个文章：
 
 Miyawaki, Y., Uchida, H., Yamashita, O., Sato, M. A., Morito, Y., Tanabe, H. C., ... & Kamitani, Y. (2008). Visual image reconstruction from human brain activity using a combination of multiscale local image decoders. Neuron, 60(5), 915-929.
 
@@ -220,7 +220,7 @@ Jensen, E. W., Nygaard, M., & Henneberg, S. W. (1999). On-line analysis of middl
 
 #### **结合EEG的康复训练（神经工程应用）**
 
-结合脑机接口的康复工程训练主要是通过神经信号，引入反馈，从而帮助脑损伤、中风之类的造成的肢体控制的后遗症。通过躯体动作+神经信号decoding的反馈可以逐步诱导运动功能的恢复。这方面可以参考以下文章。除了神经科学，这主要是康复工程（生物医学工程）的研究范围。
+结合脑机接口的康复工程训练主要是通过神经信号，引入反馈，从而帮助脑损伤、中风之类的造成的肢体控制的后遗症。通过躯体动作+神经信号解码的反馈可以逐步诱导运动功能的恢复。这方面可以参考以下文章。除了神经科学，这主要是康复工程（生物医学工程）的研究范围。
 
 Cervera, M. A., Soekadar, S. R., Ushiba, J., Millán, J. D. R., Liu, M., Birbaumer, N., & Garipelli, G. (2018). Brain‐computer interfaces for post‐stroke motor rehabilitation: a meta‐analysis. Annals of clinical and translational neurology, 5(5), 651-663.
 
@@ -255,7 +255,7 @@ tDCS通过在大脑各种部位放置电极对，使得微弱的直流电通过�
 
 <p align="right">LQ</p>
 
-和脑科学多个层次的特性一样，通过理论/计算模型来研究脑/神经系统也有明显的在不同层次上的模型，这些理论和模型是计算神经科学、计算认知科学关注的对象。借用 David Marr 的 three levels of analysis 作为讨论的框架，计算神经科学的理论通常从规范性原则 (normative principle) 出发来定义生物所需要解决的计算问题 (computation)，找到相应的算法 (algorithm)，再进一步提出对神经实现的预测 (implementation)。而根据具体研究的问题本身，所用到的相应的理论工具也会不同。这里我们通过几个例子来列举计算神经科学中常用的理论方法：
+和脑科学多个层次的特性一样，通过理论/计算模型来研究脑/神经系统也有明显的在不同层次上的模型，这些理论和模型是计算神经科学、计算认知科学关注的对象。借用 David Marr 的层次分析(three levels of analysis) 作为讨论的框架，计算神经科学的理论通常从规范性原则 (normative principle) 出发来定义生物所需要解决的计算问题 (computation)，找到相应的算法 (algorithm)，再进一步提出对神经实现的预测 (implementation)。而根据具体研究的问题本身，所用到的相应的理论工具也会不同。这里我们通过几个例子来列举计算神经科学中常用的理论方法：
 
 
 
@@ -472,7 +472,7 @@ https://cni.upenn.edu/people
 
 MOOC 检索网站： Class Central * https://www.classcentral.com ；
 
-YouTube上有大量Seminar/Talk的录像，可以直接搜感兴趣的老师的名字，查看是否有历史记录；另外，强烈推荐 YouTube 上Stanford Prof. Robert Sapolsky 的关于Human Behavior的课程！覆盖范围很广，教授讲课妙语连珠，让人点开后看着停不下来。
+YouTube上有大量Seminar/Talk的录像，可以直接搜感兴趣的老师的名字，查看是否有历史记录；另外，强烈推荐 YouTube 上Stanford Prof. Robert Sapolsky 的关于人类行为(Human Behavior)的课程！覆盖范围很广，教授讲课妙语连珠，让人点开后看着停不下来。
 
 ### **研究生院往年录取/毕业数据**
 
@@ -537,7 +537,7 @@ YouTube上有大量Seminar/Talk的录像，可以直接搜感兴趣的老师的�
 
 Twitter
 
-出笔者意外，很多neuroscientists在推特上很活跃，以至于这是笔者日常查看最新preprint、收集资源、了解学术圈动态和消遣的重要方式。
+出笔者意外，很多神经科学家在推特上很活跃，以至于这是笔者日常查看最新预印本、收集资源、了解学术圈动态和消遣的重要方式。
 
 NeuroRumblr
 
@@ -549,11 +549,11 @@ Growing up in science
 
 Fairhall Lab Blog
 
-\* https://fairhalllab.com/2013/06/14/pursuing-computational-neuroscience/  University of Washington, Prof. Adrienne Fairhall (Coursera， Computational Neuroscience的讲师之一）在计算神经领域发展的一些建议
+\* https://fairhalllab.com/2013/06/14/pursuing-computational-neuroscience/  University of Washington, Prof. Adrienne Fairhall (Coursera， Computational 神经科学的讲师之一）在计算神经领域发展的一些建议
 
 https://stearnslab.yale.edu/some-modest-advice-graduate-students
 
 ### **其他**
-Reddit(* https://www.reddit.com), The Grad Cafe(* https://forum.thegradcafe.com), Physics GRE Forum (* https://physicsgre.com) 等国外论坛有网友留下的讨论neuroscience的记录，可以做参考。虽然其信息密度不大，须要自行搜索、筛选有用信息。
+Reddit(* https://www.reddit.com), The Grad Cafe(* https://forum.thegradcafe.com), Physics GRE Forum (* https://physicsgre.com) 等国外论坛有网友留下的讨论神经科学的记录，可以做参考。虽然其信息密度不大，须要自行搜索、筛选有用信息。
 
 对改进英文写作感兴趣的同学可以参考一下经典之作：Strunk, W. Jr, and E.B. White.1979. The elements of style. 3rd Ed. Macmillan, New York. 

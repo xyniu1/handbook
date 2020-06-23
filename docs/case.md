@@ -41,27 +41,17 @@
 
 - 目标地区：美国；专业：神经科学、物理为主，其余还有申认知和生物
 
-### 九、申请结果 
+### 九、拿到的Interview 
 
-||**University**/Program|Result|
-|:--:|:--:|:--:|
-|1|**Brandies University** Neuroscience|Rejection|
-|2|**University of Chicago** Computational Neuroscienc|Rejection|
-|3|**Boston University** Neuroscience|Rejection|
-|4|**University of California-San Diego** Neuroscience|Rejection|
-|5|**Princeton University** Physics|Rejection|
-|6|**University of Pennsylvania** Physics|Rejection|
-|7|**Cold Spring Harbor Laboratory** Watson School of Biology|Rejection|
-|8|**Pittsburgh University** Neuroscience|Rejection|
-|9|**Columbia University** Neurobiology and Behavior|Post-Interview Rejection|
-|10|**Carnegie Mellon University/Pittsburgh University** Program of Neural Computation|Post-Interview Rejection|
-|11|**New York University** Neural Science|Post-Interview Rejection|
-|12|**University of California-San Diego** Physics|Offer|
-|13|**Duke University** Physics|Offer|
-|14|**Duke University** Neurobiology|Offer|
-|15|**University of Rochester** Brain and Cognitive Science|Offer|
-
-Total: 15; Interview offer: 6; Interview attended: 6; Offer: 4; Rejection: 11.
+||**University**/Program|
+|:--:|:--:|
+|9|**Columbia University** Neurobiology and Behavior|
+|10|**Carnegie Mellon University/Pittsburgh University** Program of Neural Computation|
+|11|**New York University** Neural Science|
+|12|**University of California-San Diego** Physics|
+|13|**Duke University** Physics|
+|14|**Duke University** Neurobiology|
+|15|**University of Rochester** Brain and Cognitive Science|
 
 
 ### 十、经验谈
@@ -73,7 +63,7 @@ Total: 15; Interview offer: 6; Interview attended: 6; Offer: 4; Rejection: 11.
 和往届的申请者聊天，了解他们的profile以及申请情况，据此定位。
 
 3. 申请中自己感觉做得不好应该提高的地方
-对onsite面试应该更加重视，自己性格不是很适合聊天所以比较吃亏。
+对现场面试应该更加重视，自己性格不是很适合聊天所以比较吃亏。
 
 ## **个人申请案例分享-一个月芽**
 
@@ -119,24 +109,13 @@ Total: 15; Interview offer: 6; Interview attended: 6; Offer: 4; Rejection: 11.
 
 - 主申的psy，少数neuroscience，目标是social and affective neuroscience的实验室或者track，美国（比较危险的城市就不考虑了）
 
-### 九、申请结果 
+### 九、拿到的Interview 
 
-||**University**/Program|Result|
-|:--:|:--:|:--:|
-|1|**Dartmouth College** Psychological and Brain Sciences|Rejection|
-|2|**Harvard University** Psychology|Rejection|
-|3|**MIT** Brain and Cognitive Sciences|Rejection|
-|4|**New York University** Psychology|Rejection|
-|5|**Princeton University** Psychology|Rejection|
-|6|**Stanford University** Psychology|Rejection|
-|7|**University of California, Berkeley** Neuroscience|Rejection|
-|8|**University of California, Los Angeles** Psychology|Rejection|
-|9|**University of Michigan, Ann Arbor** Psychology|Rejection|
-|10|**Yale University** Psychology|Rejection|
-|11|**University of Pennsyvania** Neuroscience|Post-Interview Rejection|
-|12|**Caltech** Social and Decision Neuroscience|Offer|
+||**University**/Program|
+|:--:|:--:|
+|11|**University of Pennsyvania** Neuroscience|
+|12|**Caltech** Social and Decision Neuroscience|
 
-Total: 12; Interview offer: 2; Offer: 1; Rejection: 11.
 
 ### 十、经验谈
 
@@ -153,7 +132,7 @@ Total: 12; Interview offer: 2; Offer: 1; Rejection: 11.
 	暑研有一篇会议的 poster 已经在会议上 present 过了，相应的一作文章在投。
 
 4. 找海外实验室的经验
-	看最新的文章，查一查有没有潜在的人际 connection，广撒网。
+	看最新的文章，查一查有没有潜在的人际关系，广发邮件。
 
 ## **个人申请案例分享-牛雪焱**
 
@@ -187,27 +166,20 @@ Total: 12; Interview offer: 2; Offer: 1; Rejection: 11.
 
 - 主申computational neuroscience，美国
 
-### 七、申请结果 
+### 七、拿到的Interview 
 
-||**University**/Program|Result|
-|:--:|:--:|:--:|
-|1|**Carnegie Mellon University** PhD in Computer Science|Rejection|
-|2|**Columbia University** PhD in Neurobiology and Behavior|Rejection|
-|3|**Princeton University** PhD in Neuroscience|Rejection|
-|4|**Johns Hopkins University** PhD in Cognitive Science|Rejection|
-|5|**University of Washington (Seattle)** PhD in Neuroscience|Rejection|
-|6|**Brown University** PhD in Neuroscience|Rejection|
-|7|**Georgia Institute of Technology** Joint Georgia Tech & Emory Univ. Biomedical Engineering Ph.D. Program|Rejection|
-|8|**MIT** Brain and Cognitive Sciences|Post-Interview Rejection|
-|9|**UCLA** Interdepartmental PhD Program for Neuroscience|Post-Interview Rejection|
-|10|**Harvard University** PhD in School of Engineering and Applied Sciences-Applied Math|Post-Interview Rejection|
-|11|**Stanford University** PhD in Psychology|Post-Interview Rejection|
-|12|**Rice University** PhD in Electrical and Computer Engineering|Declined Interview|
-|13|**University of Pennsylvania** PhD in Bioengineering|Declined Interview|
-|14|**UCSD** PhD in Cognitive Science|Offer|
-|15|**Carnegie Mellon University** PhD in Neural Computation|Offer|
-|16|**University of Chicago** PhD in Computational Neuroscience|Offer|
-|17|**New York University** PhD in Neural Science|Offer|
+||**University**/Program|
+|:--:|:--:|
+|8|**MIT** Brain and Cognitive Sciences|
+|9|**UCLA** Interdepartmental PhD Program for Neuroscience|
+|10|**Harvard University** PhD in School of Engineering and Applied Sciences-Applied Math|
+|11|**Stanford University** PhD in Psychology|
+|12|**Rice University** PhD in Electrical and Computer Engineering|
+|13|**University of Pennsylvania** PhD in Bioengineering|
+|14|**UCSD** PhD in Cognitive Science|
+|15|**Carnegie Mellon University** PhD in Neural Computation|
+|16|**University of Chicago** PhD in Computational Neuroscience|
+|17|**New York University** PhD in Neural Science|
 
 Total: 17.
 
@@ -254,28 +226,16 @@ Total: 17.
 
 - 美国top的十几个计算神经/计算认知强的神经科学、心理学项目。
 
-### 九、申请结果 
+### 九、拿到的Interview 
 
-||**University**/Program|Result|
-|:--:|:--:|:--:|
-|1|**Massachusetts Institute of Technology** Brain and Cognitive Sciences|Rejection|
-|2|**Stanford** Neurosciences Interdepartmental Program|Rejection|
-|3|**Princeton** Neuroscience Institute|Rejection|
-|4|**Columbia University** Doctoral Program in Neurobiology and Behavior|Rejection|
-|5|**UC Berkeley** Psychology|Rejection|
-|6|**Harvard** PhD Program in Neuroscience|Rejection|
-|7|**University of Pennsylvania** Neuroscience Graduate Group|Rejection|
-|8|**University of Pennsylvania** Graduate Group in Psychology|Rejection|
-|9|**University of California San Diego** Experimental Psychology|Rejection|
-|10|**CalTech** Computation and Neural Systems |Rejection|
-|11|**Uchicago** PhD Program in Computational Neuroscience|Rejection|
-|12|**University of Washington** Graduate Program in Neuroscience|Rejection|
-|13|**University of Oxford** DPhil in Neuroscience (1+3)|Post-Interview Rejection|
-|14|**New York University** Doctoral Program in Neural Science|Post-Interview Rejection|
-|15|**University of Texas at Austin** Neuroscience Graduate Program|Offer|
-|16|**Carnegie Mellon University** Program in Neural Computation (PNC)|Offer|
-|17|**University of California San Diego** Biological Sciences|Offer|
-|18|**University of California San Diego** Neurosciences|Offer|
+||**University**/Program|
+|:--:|:--:|
+|13|**University of Oxford** DPhil in Neuroscience (1+3)|
+|14|**New York University** Doctoral Program in Neural Science|
+|15|**University of Texas at Austin** Neuroscience Graduate Program|
+|16|**Carnegie Mellon University** Program in Neural Computation (PNC)|
+|17|**University of California San Diego** Biological Sciences|
+|18|**University of California San Diego** Neurosciences|
 
 ### 十、经验谈
 
@@ -315,31 +275,21 @@ Total: 17.
 
 - 美国 top30 
 
-### 六、申请结果 
+### 六、拿到的Interview 
 
-||**University**/Program|Result|
-|:--:|:--:|:--:|
-|1|**Cold Spring Harbor Laboratory** Watson School of Biology|Rejection|
-|2|**Columbia University** Neurobiology|Rejection|
-|3|**Harvard** Neuroscience|Rejection|
-|4|**MIT** Brain and Cognitive Sciences|Rejection|
-|5|**New York University** Center for Neural Sciences|Rejection|
-|6|**University of California San Diego** Biology|Rejection|
-|7|**University of College London** Gatsby Computational Neuroscience|Rejection|
-|8|**University of Washington** Neuroscience|Rejection|
-|9|**Yale University** Neuroscience|Rejection|
-|10|**Caltech** Computation Neural Systems|Post-Interview Rejection|
-|11|**Princeton University** Neuroscience|Post-Interview Rejection|
-|12|**Washington University St. Louis** Neuroscience|Post-Interview Rejection|
-|13|**Brandeis University** Neuroscience|Declined Interview|
-|14|**John Hopkins University** Psychological and Brain Sciences|Declined Interview|
-|15|**Max Planck BioCybernetics**|Declined Interview|
-|16|**University of College London** Optical Biology|Declined Interview|
-|17|**Duke University** Neurobiology|Offer|
-|18|**Pittsburgh University** Neuroscience|Offer|
-|19|**University of California San Diego** Neuroscience|Offer|
+||**University**/Program|
+|:--:|:--:|
+|10|**Caltech** Computation Neural Systems|
+|11|**Princeton University** Neuroscience|
+|12|**Washington University St. Louis** Neuroscience|
+|13|**Brandeis University** Neuroscience|
+|14|**John Hopkins University** Psychological and Brain Sciences|
+|15|**Max Planck BioCybernetics**|
+|16|**University of College London** Optical Biology|
+|17|**Duke University** Neurobiology|
+|18|**Pittsburgh University** Neuroscience|
+|19|**University of California San Diego** Neuroscience|
 
-Total: 19; Interview offer: 10; Interview attended: 6; Offer: 3; Rejection: 16.
 
 ### 七、经验谈
 
@@ -371,7 +321,7 @@ gap year：
 有一篇1作在投，基于国内毕设工作的，来美国后完稿的，熬夜改论文，添数据。
 
 7. 找海外实验室的经验
-我实际上不太会找做计算神经的big name，在的组人数都不超过10个，和老板交流比较多（这个也看每个老师）。
+我实际上不太会找做计算神经的big name，在的组人数都不超过10个，和导师交流比较多（这个也看每个老师）。
 
 ## **个人申请案例分享-Sherry**
 
@@ -438,7 +388,7 @@ Total: 8; Interview offer: 6; Offer: 2; Rejection: 6.
 
 申请中自己感觉做得不好应该提高的地方：
 
-其实今年的申请难度是比较大的，因为我想申请的方向/老师有好几个学校只有一个实验室招一个人。但是，有几个学校本应套瓷更多的老师，却由于申请时间紧张再加上误以为套瓷不太重要，只套瓷了一个或者没有套瓷，这样导致最后只有一个老师给我面试，或者老师完全没有看到过我的申请材料。我觉得只要是申请材料里提到过的老师，不管是50%感兴趣还是100%感兴趣，都可以发邮件聊一下，可以拓宽视野，为正式面试预热，说不定也能成为重要的机会。
+其实今年的申请难度是比较大的，因为我想申请的方向/老师有好几个学校只有一个实验室招一个人。但是，有几个学校本应联系更多的老师，却由于申请时间紧张再加上误以为联系教授不太重要，只联系了一个或者没有联系，这样导致最后只有一个老师给我面试，或者老师完全没有看到过我的申请材料。我觉得只要是申请材料里提到过的老师，不管是50%感兴趣还是100%感兴趣，都可以发邮件聊一下，可以拓宽视野，为正式面试预热，说不定也能成为重要的机会。
 
 面试上自己有些忽略的地方是big picture，不过这也不是一朝一夕练成的能力。再就是有的做过的项目自己感觉和申请的老师非常相关，但是在面试的时候老师问到的是非常不相关的项目，这种时候可能会表现有些准备不充分。再就是有的时候可能keep conversation flow这一点做的不太好。
 
