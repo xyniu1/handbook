@@ -144,9 +144,9 @@
 ### 二、研究经历
 #### neuroscience:
 - Jul - Dec 2017，港大本校，human EEG，申请前两篇会议abstract；
-- Aug 2019 - Feb 2020，Carnegie Mellon University，两个neural circuit modeling的projects，申请前一篇论文在投
+- Aug 2019 - Feb 2020，Carnegie Mellon University，两个neural circuit modeling的项目，申请前一篇论文在投
 #### math:
-- Jun 2018 - Jul 2018，Cornell University，数学的project内容与neuroscience无关，申请前一篇论文发表
+- Jun 2018 - Jul 2018，Cornell University，数学的项目内容与neuroscience无关，申请前一篇论文发表
 
 ### 三、标化成绩
 
@@ -164,7 +164,7 @@
 
 ### 六、申请目标
 
-- 计算神经，美国
+- 做计算神经的导师，项目叫什么不重要，美国
 
 ### 七、申请结果 
 
