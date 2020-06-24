@@ -142,16 +142,16 @@
 2. 本科 gpa:3.8/4.3
 
 ### 二、研究经历
-
-- Jul - Dec 2017, The University of Hong Kong, Theta power increase in the human visual cortex in response to novelty (human EEG)
-- Aug 2019 - Feb 2020, Carnegie Mellon University, Emergence of opposite neurons in a decentralized ring-rate model of multisensory integration
-- Aug 2019 - Feb 2020, Carnegie Mellon University, The emergence of local circuits in visual familiarity representation
-- +some unrelated math projects, The University of Hong Kong, Cornell University
+#### neuroscience:
+- Jul - Dec 2017，港大本校，human EEG，申请前两篇会议abstract；
+- Aug 2019 - Feb 2020，Carnegie Mellon University，两个neural circuit modeling的projects，申请前一篇论文在投
+#### math:
+- Jun 2018 - Jul 2018，Cornell University，数学的project内容与neuroscience无关，申请前一篇论文发表
 
 ### 三、标化成绩
 
-- TOEFL：110+
-- GRE：325+
+- TOEFL：112
+- GRE：158+160+4
 
 ### 四、技能
 
@@ -160,26 +160,30 @@
 
 ### 五、推荐信组成
 
-- US暑研+本校兼职RA+US gap year RA（均为professor）
+- 三段研究经历的导师
 
 ### 六、申请目标
 
-- 主申computational neuroscience，美国
+- 计算神经，美国
 
-### 七、拿到的Interview 
+### 七、申请结果 
 
-||**University**/Program|
-|:--:|:--:|
-|1|**MIT** Brain and Cognitive Sciences|
-|2|**UCLA** Interdepartmental PhD Program for Neuroscience|
-|3|**Harvard University** PhD in School of Engineering and Applied Sciences-Applied Math|
-|4|**Stanford University** PhD in Psychology|
-|5|**Rice University** PhD in Electrical and Computer Engineering|
-|6|**University of Pennsylvania** PhD in Bioengineering|
-|7|**UCSD** PhD in Cognitive Science|
-|8|**Carnegie Mellon University** PhD in Neural Computation|
-|9|**University of Chicago** PhD in Computational Neuroscience|
-|10|**New York University** PhD in Neural Science|
+#### 收到的interview:
+
+- **New York University** PhD in Neural Science（最终去向）
+- **MIT** Brain and Cognitive Sciences
+- **UCLA** Interdepartmental PhD Program for Neuroscience
+- **Harvard University** PhD in School of Engineering and Applied Sciences-Applied Math
+- **Stanford University** PhD in Psychology
+- **UCSD** PhD in Cognitive Science
+- **Carnegie Mellon University** PhD in Neural Computation
+- **University of Chicago** PhD in Computational Neuroscience
+- **Rice University** PhD in Electrical and Computer Engineering（未参加）
+- **University of Pennsylvania** PhD in Bioengineering（未参加）
+
+### 八、经验谈
+1. 从我的经历来看，数理背景的同学申请计算神经的方向还是挺有优势的，不过这两年竞争力强的申请者也在不断增多；
+2. 我个人申请的项目比较杂，除了neuroscience，还有cognitive science、psychology、bioengineering等。现在回头来看，我认为还是neuroscience的项目最适合将来从事计算神经的研究，原因在于合适的课程设置、充足的导师选择，以及和项目中的其他同学更有共同语言（这一点在读phd的过程中可能比想象的更加重要）。
 
 
 ## **个人申请案例分享-Gian**
