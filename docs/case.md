@@ -41,27 +41,18 @@
 
 - 目标地区：美国；专业：神经科学、物理为主，其余还有申认知和生物
 
-### 九、申请结果 
+### 九、拿到的Interview 
 
-||<font size =4 color=#f4f0b5>Rejection</font> <font size =4 color=#d1e5c8>Post-Interview Rejection</font> <font size =4 color=#64b2c7>Offer</font>|
-|:--:|:---:|
-|1<td bgcolor=#f4f0b5>**Brandies University** Neuroscience</td>
-|2<td bgcolor=#f4f0b5>**University of Chicago** Computational Neuroscience</td>
-|3<td bgcolor=#f4f0b5>**Boston University** Neuroscience</td>
-|4<td bgcolor=#f4f0b5>**University of California-San Diego** Neuroscience</td>
-|5<td bgcolor=#f4f0b5>**Princeton University** Physics</td>
-|6<td bgcolor=#f4f0b5>**University of Pennsylvania** Physics</td>
-|7<td bgcolor=#f4f0b5>**Cold Spring Harbor Laboratory** Watson School of Biology</td>
-|8<td bgcolor=#f4f0b5>**Pittsburgh University** Neuroscience</td>
-|9<td bgcolor=#d1e5c8>**Columbia University** Neurobiology and Behavior</td>
-|10<td bgcolor=#d1e5c8>**Carnegie Mellon University/Pittsburgh University** Program of Neural Computation</td>
-|11<td bgcolor=#d1e5c8>**New York University** Neural Science</td>
-|12<td bgcolor=#64b2c7>**University of California-San Diego** Physics</td>
-|13<td bgcolor=#64b2c7>**Duke University** Physics</td>
-|14<td bgcolor=#64b2c7>**Duke University** Neurobiology</td>
-|15<td bgcolor=#64b2c7>**University of Rochester** Brain and Cognitive Science</td>
+||**University**/Program|
+|:--:|:--:|
+|1|**Columbia University** Neurobiology and Behavior|
+|2|**Carnegie Mellon University/Pittsburgh University** Program of Neural Computation|
+|3|**New York University** Neural Science|
+|4|**University of California-San Diego** Physics|
+|5|**Duke University** Physics|
+|6|**Duke University** Neurobiology|
+|7|**University of Rochester** Brain and Cognitive Science|
 
-Total: 15; Interview offer: 6; Interview attended: 6; Offer: 4; Rejection: 11.
 
 ### 十、经验谈
 
@@ -72,7 +63,7 @@ Total: 15; Interview offer: 6; Interview attended: 6; Offer: 4; Rejection: 11.
 和往届的申请者聊天，了解他们的profile以及申请情况，据此定位。
 
 3. 申请中自己感觉做得不好应该提高的地方
-对onsite面试应该更加重视，自己性格不是很适合聊天所以比较吃亏。
+对现场面试应该更加重视，自己性格不是很适合聊天所以比较吃亏。
 
 ## **个人申请案例分享-一个月芽**
 
@@ -118,24 +109,13 @@ Total: 15; Interview offer: 6; Interview attended: 6; Offer: 4; Rejection: 11.
 
 - 主申的psy，少数neuroscience，目标是social and affective neuroscience的实验室或者track，美国（比较危险的城市就不考虑了）
 
-### 九、申请结果 
+### 九、拿到的Interview 
 
-||<font size =4 color=#f4f0b5>Rejection</font> <font size =4 color=#d1e5c8>Post-Interview Rejection</font> <font size =4 color=#64b2c7>Offer</font>|
-|:--:|:---:|
-|1<td bgcolor=#f4f0b5>**Dartmouth College** Psychological and Brain Sciences</td>
-|2<td bgcolor=#f4f0b5>**Harvard University** Psychology</td>
-|3<td bgcolor=#f4f0b5>**MIT** Brain and Cognitive Sciences</td>
-|4<td bgcolor=#f4f0b5>**New York University** Psychology</td>
-|5<td bgcolor=#f4f0b5>**Princeton University** Psychology</td>
-|6<td bgcolor=#f4f0b5>**Stanford University** Psychology</td>
-|7<td bgcolor=#f4f0b5>**University of California, Berkeley** Neuroscience</td>
-|8<td bgcolor=#f4f0b5>**University of California, Los Angeles** Psychology</td>
-|9<td bgcolor=#f4f0b5>**University of Michigan, Ann Arbor** Psychology</td>
-|10<td bgcolor=#f4f0b5>**Yale University** Psychology</td>
-|11<td bgcolor=#d1e5c8>**University of Pennsyvania** Neuroscience</td>
-|12<td bgcolor=#64b2c7>**Caltech** Social and Decision Neuroscience</td>
+||**University**/Program|
+|:--:|:--:|
+|1|**University of Pennsyvania** Neuroscience|
+|2|**Caltech** Social and Decision Neuroscience|
 
-Total: 12; Interview offer: 2; Offer: 1; Rejection: 11.
 
 ### 十、经验谈
 
@@ -152,7 +132,7 @@ Total: 12; Interview offer: 2; Offer: 1; Rejection: 11.
 	暑研有一篇会议的 poster 已经在会议上 present 过了，相应的一作文章在投。
 
 4. 找海外实验室的经验
-	看最新的文章，查一查有没有潜在的人际 connection，广撒网。
+	看最新的文章，查一查有没有潜在的人际关系，广发邮件。
 
 ## **个人申请案例分享-牛雪焱**
 
@@ -205,6 +185,7 @@ Total: 12; Interview offer: 2; Offer: 1; Rejection: 11.
 1. 从我的经历来看，数理背景的同学申请计算神经的方向还是挺有优势的，不过这两年竞争力强的申请者也在不断增多；
 2. 我个人申请的项目比较杂，除了neuroscience，还有cognitive science、psychology、bioengineering等。现在回头来看，我认为还是neuroscience的项目最适合将来从事计算神经的研究，原因在于合适的课程设置、充足的导师选择，以及和项目中的其他同学更有共同语言（这一点在读phd的过程中可能比想象的更加重要）。
 
+
 ## **个人申请案例分享-Gian**
 
 ### 一、教育情况
@@ -248,28 +229,16 @@ Total: 12; Interview offer: 2; Offer: 1; Rejection: 11.
 
 - 美国top的十几个计算神经/计算认知强的神经科学、心理学项目。
 
-### 九、申请结果 
+### 九、拿到的Interview 
 
- ||<font size =4 color=#f4f0b5>Rejection</font> <font size =4 color=#d1e5c8>Post-Interview Rejection</font> <font size =4 color=#64b2c7>Offer</font>|
-|:--:|:---:|
-|1<td bgcolor=#f4f0b5>**Massachusetts Institute of Technology** Brain and Cognitive Sciences</td>
-|2<td bgcolor=#f4f0b5>**Stanford** Neurosciences Interdepartmental Program</td>
-|3<td bgcolor=#f4f0b5>**Princeton** Neuroscience Institute</td>
-|4<td bgcolor=#f4f0b5>**Columbia University** Doctoral Program in Neurobiology and Behavior</td>
-|5<td bgcolor=#f4f0b5>**UC Berkeley** Psychology</td>
-|6<td bgcolor=#f4f0b5>**Harvard** PhD Program in Neuroscience</td>
-|7<td bgcolor=#f4f0b5>**University of Pennsylvania** Neuroscience Graduate Group</td>
-|8<td bgcolor=#f4f0b5>**University of Pennsylvania** Graduate Group in Psychology</td>
-|9<td bgcolor=#f4f0b5>**University of California San Diego** Experimental Psychology</td>
-|10<td bgcolor=#f4f0b5>**CalTech** Computation and Neural Systems </td>
-|11<td bgcolor=#f4f0b5>**Uchicago** PhD Program in Computational Neuroscience</td>
-|12<td bgcolor=#f4f0b5>**University of Washington** Graduate Program in Neuroscience</td>
-|13<td bgcolor=#d1e5c8>**University of Oxford** DPhil in Neuroscience (1+3)</td>
-|14<td bgcolor=#d1e5c8>**New York University** Doctoral Program in Neural Science</td>
-|15<td bgcolor=#64b2c7>**University of Texas at Austin** Neuroscience Graduate Program</td>
-|16<td bgcolor=#64b2c7>**Carnegie Mellon University** Program in Neural Computation (PNC)</td>
-|17<td bgcolor=#64b2c7>**University of California San Diego** Biological Sciences</td>
-|18<td bgcolor=#64b2c7>**University of California San Diego** Neurosciences</td>
+||**University**/Program|
+|:--:|:--:|
+|1|**University of Oxford** DPhil in Neuroscience (1+3)|
+|2|**New York University** Doctoral Program in Neural Science|
+|3|**University of Texas at Austin** Neuroscience Graduate Program|
+|4|**Carnegie Mellon University** Program in Neural Computation (PNC)|
+|5|**University of California San Diego** Biological Sciences|
+|6|**University of California San Diego** Neurosciences|
 
 ### 十、经验谈
 
@@ -286,7 +255,7 @@ Total: 12; Interview offer: 2; Offer: 1; Rejection: 11.
 
 ### 一、教育情况
 
-1. 学校+专业：中国科学技术大学 物理
+1. 学校+专业：华五 物理
 2. 本科gpa+排名：3.6/4.3
 
 ### 二、研究经历
@@ -298,8 +267,8 @@ Total: 12; Interview offer: 2; Offer: 1; Rejection: 11.
 
 ### 三、标化成绩
 
-- GRE General Verbal 160 (86%), Quant 170 (97%), Writi􏰀ng 3.5 (41%) 
-- TOEFL iBT Reading 29, Listening 30, Speaking 22, Writi􏰀ng 21, Total 102
+- GRE General Verbal 160 (86%), Quant 170 (97%), Writing 3.5 (41%) 
+- TOEFL iBT Reading 29, Listening 30, Speaking 22, Writing 21, Total 102
 
 ### 四、推荐信组成
 
@@ -309,31 +278,21 @@ Total: 12; Interview offer: 2; Offer: 1; Rejection: 11.
 
 - 美国 top30 
 
-### 六、申请结果 
+### 六、拿到的Interview 
 
-||<font size =4 color=#f4f0b5>Rejection</font> <font size =4 color=#d1e5c8>Post-Interview Rejection</font> <font size =4 color=#b2d6ce>Declined Interview</font> <font size =4 color=#64b2c7>Offer</font>|
-|:--:|:---:|
-|1<td bgcolor=#f4f0b5>**Cold Spring Harbor Laboratory** Watson School of Biology</td>
-|2<td bgcolor=#f4f0b5>**Columbia University** Neurobiology</td>
-|3<td bgcolor=#f4f0b5>**Harvard** Neuroscience</td>
-|4<td bgcolor=#f4f0b5>**MIT** Brain and Cognitive Sciences</td>
-|5<td bgcolor=#f4f0b5>**New York University** Center for Neural Sciences</td>
-|6<td bgcolor=#f4f0b5>**University of California San Diego** Biology</td>
-|7<td bgcolor=#f4f0b5>**University of College London** Gatsby Computational Neuroscience</td>
-|8<td bgcolor=#f4f0b5>**University of Washington** Neuroscience</td>
-|9<td bgcolor=#f4f0b5>**Yale University** Neuroscience</td>
-|10<td bgcolor=#d1e5c8>**Caltech** Computation Neural Systems</td>
-|11<td bgcolor=#d1e5c8>**Princeton University** Neuroscience</td>
-|12<td bgcolor=#d1e5c8>**Washington University St. Louis** Neuroscience</td>
-|13<td bgcolor=#b2d6ce>**Brandeis University** Neuroscience</td>
-|14<td bgcolor=#b2d6ce>**John Hopkins University** Psychological and Brain Sciences</td>
-|15<td bgcolor=#b2d6ce>**Max Planck BioCybernetics**</td>
-|16<td bgcolor=#b2d6ce>**University of College London** Optical Biology</td>
-|17<td bgcolor=#64b2c7>**Duke University** Neurobiology</td>
-|18<td bgcolor=#64b2c7>**Pittsburgh University** Neuroscience</td>
-|19<td bgcolor=#64b2c7>**University of California San Diego** Neuroscience</td>
+||**University**/Program|
+|:--:|:--:|
+|1|**Caltech** Computation Neural Systems|
+|2|**Princeton University** Neuroscience|
+|3|**Washington University St. Louis** Neuroscience|
+|4|**Brandeis University** Neuroscience|
+|5|**John Hopkins University** Psychological and Brain Sciences|
+|6|**Max Planck BioCybernetics**|
+|7|**University of College London** Optical Biology|
+|8|**Duke University** Neurobiology|
+|9|**Pittsburgh University** Neuroscience|
+|10|**University of California San Diego** Neuroscience|
 
-Total: 19; Interview offer: 10; Interview attended: 6; Offer: 3; Rejection: 16.
 
 ### 七、经验谈
 
@@ -365,27 +324,27 @@ gap year：
 有一篇1作在投，基于国内毕设工作的，来美国后完稿的，熬夜改论文，添数据。
 
 7. 找海外实验室的经验
-我实际上不太会找做计算神经的big name，在的组人数都不超过10个，和老板交流比较多（这个也看每个老师）。
+我实际上不太会找做计算神经的big name，在的组人数都不超过10个，和导师交流比较多（这个也看每个老师）。
 
-## **个人申请案例分享-Sherry**
+## **个人申请案例分享**
 
 ### 一、教育情况
 
-1. 学校+专业：中流985+制药工程
-2. 硕士学校+专业：苏黎世联邦理工学院 计算生物学与生物信息学
+1. 学校+专业：中流985+天坑工程类专业
+2. 硕士学校+专业：欧洲理工院校 生物信息学
 3. 本科gpa+排名：3.9/4.0 (wes)
-4. 硕士学校+专业：3.7/4.0 (wes，只有申请瑞士的学校硕士成绩没有转换)
+4. 硕士gpa+排名：3.7/4.0 (wes，只有申请硕士本土的phd时成绩没有转换)
 
 ### 二、研究经历
 
-- 2019.9-present NYU Human planning in a game with large state space
-- 2019.2-2019.7 UCL Modeling attention development using active inference 
-- 2018.6-2018.12 UofZurich Master's thesis: cognitive-computational models of risk assessment under threat (grade:6/6)
-- 2017.11-2019.1 ETH Developing cardiac-field artifact correction methods for EEG data
+- 2019.9-present 美国 Human planning in a game with large state space
+- 2019.2-2019.7 英国 Modeling attention development using active inference 
+- 2018.6-2018.12 欧陆 cognitive-computational models of risk assessment under threat (grade:6/6)
+- 2017.11-2019.1 欧陆 Developing cardiac-field artifact correction methods for EEG data
 
 ### 三、课外活动
 
-- 2019.9-present NYU Lab management
+- 2019.9-present Lab management
 - 2018.3-2018.10 iGEM某队advisor
 - 2017.10-2017.11 iGEM Judge
 - 2014.11-2015.9 iGEM某队co-leader+co-founder,获奖若干
@@ -413,34 +372,31 @@ gap year：
 
 - 主要申请psy/cog，没有psy项目的学校会考虑方向比较相关的neuro小方向。主要以感兴趣的导师/小的研究领域（decision-making，social）为导向，其次考虑城市（在大城市/靠近大城市，危险地区不考虑，偏向欧洲）。
 
-### 八、申请结果 
+### 八、拿到的Interview 
 
-||<font size =4 color=#f4f0b5>Rejection</font> <font size =4 color=#d1e5c8>Post-Interview Rejection</font> <font size =4 color=#64b2c7>Offer</font>|
-|:--:|:---:|
-|1<td bgcolor=#f4f0b5>**University College London** Mental Health</td>
-|2<td bgcolor=#f4f0b5>**Princeton University** Psychology</td>
-|3<td bgcolor=#d1e5c8>**Brown University** Cognitive science</td>
-|4<td bgcolor=#d1e5c8>**New York University** Psychology</td>
-|5<td bgcolor=#d1e5c8>**Caltech** Social and Decision Neuroscience</td>
-|6<td bgcolor=#d1e5c8>**Yale University** Psychology</td>
-|7<td bgcolor=#64b2c7>**École normale supérieure (Paris)** Cognitive Science</td>
-|8<td bgcolor=#64b2c7>**University of Zurich** Neuroeconomics</td>
+||**University**/Program|
+|:--:|:--:|
+|1|**Brown University** Cognitive science|Post-Interview Rejection|
+|2|**New York University** Psychology|Post-Interview Rejection|
+|3|**Caltech** Social and Decision Neuroscience|Post-Interview Rejection|
+|4|**Yale University** Psychology|Post-Interview Rejection|
+|5|**École normale supérieure (Paris)** Cognitive Science|Offer|
+|6|**University of Zurich** Neuroeconomics|Offer|
 
-Total: 8; Interview offer: 6; Offer: 2; Rejection: 6.
 
 ### 九、经验谈
 
 申请中自己感觉做得不好应该提高的地方：
 
-其实今年的申请难度是比较大的，因为我想申请的方向/老师有好几个学校只有一个实验室招一个人。但是，有几个学校本应套瓷更多的老师，却由于申请时间紧张再加上误以为套瓷不太重要，只套瓷了一个或者没有套瓷，这样导致最后只有一个老师给我面试，或者老师完全没有看到过我的申请材料。我觉得只要是申请材料里提到过的老师，不管是50%感兴趣还是100%感兴趣，都可以发邮件聊一下，可以拓宽视野，为正式面试预热，说不定也能成为重要的机会。
+其实今年的申请难度是比较大的，因为我想申请的方向/老师有好几个学校只有一个实验室招一个人。但是，有几个学校本应联系更多的老师，却由于申请时间紧张再加上误以为联系教授不太重要，只联系了一个或者没有联系，这样导致最后只有一个老师给我面试，或者老师完全没有看到过我的申请材料。我觉得只要是申请材料里提到过的老师，不管是50%感兴趣还是100%感兴趣，都可以发邮件聊一下，可以拓宽视野，为正式面试预热，说不定也能成为重要的机会。
 
-面试上自己有些忽略的地方是big picture，不过这也不是一朝一夕练成的能力。再就是有的做过的项目自己感觉和申请的老师非常相关，但是在面试的时候老师问到的是非常不相关的项目，这种时候可能会表现有些准备不充分。再就是有的时候可能keep conversation flow这一点做的不太好。
+面试上自己有些忽略的地方是big picture，不过这也不是一朝一夕练成的能力。再就是有的做过的项目自己感觉和申请的老师非常相关，但是在面试的时候老师问到的是非常不相关的项目，这种时候可能会表现有些准备不充分。再就是有的时候可能主动找话题这一点做的不太好。
 
-其实整体上来看对于美国的申请硬伤是很大的，因为没有publication（两个美国学校的面试都问到我这个问题）。追根溯源在找实验室/advisor方面有一些建议：
+其实整体上来看对于美国的申请硬伤是很大的，因为没有文章（两个美国学校的面试都问到我这个问题）。追根溯源在找实验室/advisor方面有一些建议：
 
 1. 不属于整个实验室的大方向且不是advisor主要领域且也不是advisor未来目标方向的项目要非常非常谨慎入手；
 2. 尽量找老师能亲自带的实验室，postdoc也是trainee, 和pi的区别很大；不过非常有经验的postoc也可考虑；
-3. 如果是做计算的方向，有solid计算背景的advisor非常非常重要；
-4. 建议一开始对于paper和自己在研究领域的期望就和导师谈清楚，否则可能会出现对方对你要求过低的情况；
-5. 向老师强烈表达自己想要publication/参加会议的想法；
-6. 找实验室没必要局限于自己的学校和地区，如果实在本地找不到合适的老师一定要努力reach out。
+3. 如果是做计算的方向，有比较强计算背景的advisor非常非常重要；
+4. 建议一开始对于文章发表和自己在研究领域的期望就和导师谈清楚，否则可能会出现对方对你要求过低的情况；
+5. 向老师强烈表达自己想要文章/参加会议的想法；
+6. 找实验室没必要局限于自己的学校和地区，如果实在本地找不到合适的老师一定要努力去其他地区找找看。
